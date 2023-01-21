@@ -1,0 +1,8 @@
+.vscode
+.vs
+bin
+obj
+
+test.*
+*.log
+*.code-workspace
